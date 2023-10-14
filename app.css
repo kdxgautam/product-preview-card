@@ -115,6 +115,10 @@ p{
 
 }
 
+.cart:hover{
+    background-color: hsl(158, 40%, 22%);
+}
+
 .cart-img{
     margin: -2px 8px;
 
